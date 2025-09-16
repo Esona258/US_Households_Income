@@ -1,4 +1,4 @@
-US Household Income Data Cleaning
+#US Household Income Data Cleaning
 Overview
 
 This project cleans and prepares the US Household Income dataset for analysis by correcting duplicates, fixing errors, and standardizing data.
